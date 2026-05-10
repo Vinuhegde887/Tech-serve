@@ -151,9 +151,9 @@ ADMIN_EMAIL=your_admin_email@gmail.com
 
 | Variable | Description | Example |
 |---|---|---|
-| `GMAIL_USER` | Gmail address used to send emails | `hegdevinayak127@gmail.com` |
+| `GMAIL_USER` | Gmail address used to send emails | `abcd@gmail.com` |
 | `GMAIL_APP_PASSWORD` | 16-character App Password from Google | `abcd efgh ijkl mnop` |
-| `ADMIN_EMAIL` | Email address to receive admin alerts | `hegdevinayak127@gmail.com` |
+| `ADMIN_EMAIL` | Email address to receive admin alerts | `abcd@gmail.com` |
 
 > ⚠️ **Never commit `.env.local` to version control.** It is already listed in `.gitignore`.
 
