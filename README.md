@@ -11,7 +11,7 @@ A full-stack web application built with **Next.js 16** that provides two core ca
 ![Home Page](public/screenshots/home.png)
 
 ### 💻 Repair Service
-![Repair Service](public/screenshots/repairpage.png)
+![Repair Service](public/screenshots/repair-page.png)
 
 ### 🖨️ 3D Print Service
 ![3D Print Service](public/screenshots/printpage.png)
