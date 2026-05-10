@@ -5,6 +5,28 @@ A full-stack web application built with **Next.js 16** that provides two core ca
 - 🖨️ **3D Printing Service** with real-time STL file parsing and cost estimation
 
 ---
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](public/screenshots/home.png)
+
+### 💻 Repair Service
+![Repair Service](public/screenshots/repairpage.png)
+
+### 🖨️ 3D Print Service
+![3D Print Service](public/screenshots/printpage.png)
+![3D Print File support](public/screeshots/print-file.png)
+
+### 🖨️ Login page
+![Login Page](public/screenshots/login.png)
+
+### 🗂️ Admin Dashboard
+![Admin Dashboard](public/screenshots/admin-panel.png)
+
+
+### 📊 User Dashboard
+![User Dashboard](public/screenshots/user-dashboard.png)
+
 
 ## 📋 Table of Contents
 
